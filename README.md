@@ -12,7 +12,7 @@ This tool is intended for use by operations analysts, business strategists, tran
 
 
 
-📊 ### Data Source
+ ###  📊Data Source
 
 Source: Uber open datasets ( Kaggle Uber Trips Data / internal ride data).
 
@@ -28,7 +28,7 @@ Revenue and surge pricing data
 
 Location/geographic information
 
-🌟###  Features / Highlights
+### 🌟  Features / Highlights
 • Business Problem
 
 Ride-hailing platforms like Uber handle millions of trips daily, yet decision-makers often lack intuitive tools to analyze demand, revenue, and performance at a granular level.
@@ -54,7 +54,7 @@ Supports decisions such as driver allocation, pricing strategies, or marketing c
 
 Uncovers patterns in demand, earnings, and operational efficiency.
 
-📈 ### Walkthrough of Key Visuals
+ ### 📈  Walkthrough of Key Visuals
 
 Key KPIs (Top Section)
 
@@ -86,7 +86,7 @@ Highlights earnings distribution across drivers, trips per driver, and availabil
 Cancellation & Ratings Analysis
 Examines cancellation trends, customer satisfaction, and impact on business.
 
-💡 ### Business Impact & Insights
+ ###  Business Impact & Insights
 
 Operational Efficiency – Helps Uber allocate drivers efficiently by identifying peak demand times and locations.
 
